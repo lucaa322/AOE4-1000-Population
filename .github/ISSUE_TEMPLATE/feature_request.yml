@@ -6,7 +6,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Which feature would you like to add? Please describe?
-      description: A clear description of the functionality you would like to add
+      label: Which feature would you like to add? Please describe.
+      description: A clear description of the functionality you would like to add.
     validations:
       required: true
