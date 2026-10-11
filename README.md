@@ -1,13 +1,13 @@
 # AOE4-1000-Population
 
 **<ins>Report Bugs / Suggest Features:</ins>** <br>
-https://github.com/lucaa322/AOE4-1000-Population/issues/new/choose
+https://github.com/lucaa322/AOE4-1000-Population/issues/new/choose <br>
 <br>
 <br>
 **About:** <br>
  -An Age of Empires 4 Mod<br>
  -Max. Population Capacity: 1.000<br>
- -Max. Resource Capacity: 1.000.000
+ -Max. Resource Capacity: 1.000.000<br>
 <br>
 **Supports:** <br>
 -The Sultans Ascend <br>
