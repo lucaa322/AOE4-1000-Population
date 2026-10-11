@@ -4,12 +4,12 @@ An Age of Empires 4 Mod
 **Report Bugs / Suggest Features:** <br>
 https://github.com/lucaa322/AOE4-1000-Population/issues/new/choose
 
-**About:**
- -Max. Population Capacity: 1.000
+**About:**<br>
+ -Max. Population Capacity: 1.000<br>
  -Max. Resource Capacity: 1.000.000
 
-**Supports:**
--The Sultans Ascend 
--Knights of Cross and Rose 
--Dynasties of the East 
+**Supports:**<br>
+-The Sultans Ascend <br>
+-Knights of Cross and Rose <br>
+-Dynasties of the East <br>
 -Yue Fei's Legacy
