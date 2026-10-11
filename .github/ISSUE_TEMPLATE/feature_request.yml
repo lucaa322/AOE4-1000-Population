@@ -1,20 +1,12 @@
 name: Feature request
-description: Create a bug report to help us improve
-labels: ["bug"]
+description: Suggest an idea for this project
+labels: ["enhancement"]
 assignees: ["lucaa322"]
 body:
   - type: textarea
     id: description
     attributes:
-      label: Describe the bug
-      description: A clear and concise description of what the bug is.
+      label: Which feature would you like to add? Please describe?
+      description: A clear description of the functionality you would like to add
     validations:
       required: true
-
-  - type: textarea
-    id: screenshots
-    attributes:
-      label: Screenshots
-      description: If applicable, add screenshots to help explain your problem.
-    validations:
-      required: false
