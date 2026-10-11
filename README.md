@@ -1,6 +1,6 @@
 # AOE4-1000-Population
 
-**Report Bugs / Suggest Features:** <br>
+<u>**Report Bugs / Suggest Features:**</u> <br>
 https://github.com/lucaa322/AOE4-1000-Population/issues/new/choose
 
 **About:**<br>
